@@ -5,6 +5,7 @@ Using modules from:
 
 
 Usage:
-- must create ssh key first
+- must create ssh
 - run make one-time
+- register dns...
 - run make apply (can fill in variables in app.tfvars)
